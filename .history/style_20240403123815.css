@@ -1,0 +1,18 @@
+
+.hero h1 {
+    color: rgb(243, 0, 40);
+}
+
+
+
+
+.hero {
+    background-color: rgba(250, 55, 198, 0.67);
+    text-align: center;
+}
+
+.hero p {
+    font-family: "Montserrat", sans-serif;
+    font-size: 36px;
+    color: rgba(241, 150, 165, 0.609);
+}

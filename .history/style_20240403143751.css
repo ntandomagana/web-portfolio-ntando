@@ -14,7 +14,6 @@ p {
 .hero {
     text-align: center;
     background-color:  #00bbf0;
-    padding: 160px 20px;
 }
 
 .hero p {
@@ -22,14 +21,12 @@ p {
     font-weight: bold;
     margin: 0;
     color: #00204a; 
-
     
 }
 
 .hero h1 {
     font-family: "Poppins", sans-serif;
     line-height: 2;
-    color: white;
     
 }
 
@@ -41,13 +38,11 @@ p {
 
 }
 
-.btn-branding {
+.btn {
     background-color: #fdb44b; 
-    padding: 15px 30px;
+    padding: 20px;
     margin: 0;
-    color: white;
     border-radius: 5px;
-    line-height: 27px;
+    line-height: ;
     align-items: center;
-    font-size: 18px;
 }

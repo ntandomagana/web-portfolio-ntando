@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+    font-family: "Poppins", ;
+}
+
+
+.hero {
+    background-color: rgba(250, 172, 55, 0.67);
+}

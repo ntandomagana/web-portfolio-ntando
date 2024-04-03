@@ -1,0 +1,12 @@
+
+.hero {
+    align-items: center;
+}
+
+.btn {
+    background-color: #fdb44b; 
+    padding: 20px;
+    margin: 0;
+    border-radius: 5px;
+    align-items: center;
+}
