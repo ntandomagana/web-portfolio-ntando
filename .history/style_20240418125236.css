@@ -1,6 +1,7 @@
 :root {
   --branding-color:  #00bbf0;
   --secondary-color:  #bed9ef;
+ 
   --default-font-family: "Poppins", sans-serif;
 }
 
@@ -15,7 +16,7 @@ h4,
 h5,
 h6 {
   color: black;
-  font-family: var(--default-font-family);
+  font-family: var(--heading-font-family);
   font-weight: bold;
 }
 
@@ -52,7 +53,7 @@ p {
 }
 
 .hero h2 {
-  font-family: var(--default-font-family);
+  font-family: var(--heading-font-family);
   font-weight: normal;
   line-height: 1.5;
   font-size: 24px;
